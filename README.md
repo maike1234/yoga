@@ -4,8 +4,8 @@
 
 
 
-<img src="./assets/iphone 11.svg"> 
-<img src="./assets/iphone.svg>
+<img src="./assets/iphone.png"> 
+<img src="./assets/iphone (2).png">
 
 > Resultado do projeto yoga.
 ### Ajustes e melhorias
