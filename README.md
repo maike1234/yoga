@@ -4,8 +4,7 @@
 
 
 
-<img src="./assets/iphone.png"> 
-<img src="./assets/iphone (2).png">
+<img src="https://user-images.githubusercontent.com/92497291/145697830-44bf1c0e-2b46-4e5f-8780-cd8be0f73427.jpeg"> 
 
 > Resultado do projeto yoga.
 ### Ajustes e melhorias
